@@ -1,4 +1,4 @@
-#!/opt/hostedtoolcache/jdk/11.0.9/x64 --source 11
+#!/usr/bin/java --source 11
 
 import java.io.BufferedReader;
 import java.io.IOException;
